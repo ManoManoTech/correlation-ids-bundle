@@ -50,5 +50,6 @@
         "psr-4": {
             "ManoManoTech\\CorrelationIdBundle\\Tests\\": "tests/"
         }
-    }
+    },
+    "abandoned": "not maintained any more"
 }
